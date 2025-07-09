@@ -57,13 +57,3 @@ This automation provides timely feedback and reduces the time required by the CN
 ### [APIsnoop](https://apisnoop.cncf.io/about)
 
 APISnoop tracks the testing and conformance coverage of Kubernetes by analyzing the audit logs created by e2e test runs.
-Conformance log 2025-02-02
-Conformance log 2025-02-04
-Conformance log 2025-02-06
-Conformance log 2025-02-23
-Conformance log 2025-02-25
-Conformance log 2025-03-01
-Conformance log 2025-03-15
-Conformance log 2025-03-16
-Conformance log 2025-03-19
-Conformance log 2025-03-26
